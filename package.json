@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare-dynamic-dns",
+  "name": "dynamic-dns-updater",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
